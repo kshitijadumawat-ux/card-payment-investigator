@@ -1,0 +1,7 @@
+transaction_id,card_last4,merchant,amount_inr,auth_status,ledger_status,merchant_capture,reversal_status
+CARD-101,0001,Metro Mart,1500,approved,debited,failed,pending
+CARD-102,0002,City Fuel,2300,approved,debited,captured,not_needed
+CARD-103,0003,Book Haven,999,declined,not_posted,not_captured,not_needed
+CARD-104,0004,Quick Cab,4500,approved,debited,not_captured,completed
+CARD-105,0005,Green Grocer,1200,approved,debited,captured,not_needed
+CARD-106,0005,Green Grocer,1200,approved,debited,not_captured,none
